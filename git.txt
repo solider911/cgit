@@ -1,3 +1,13 @@
 
 远程仓库地址
 git@github.com:solider911/cgit.git
+
+git学习
+
+git基础：
+
+1、windows安装：
+
+首先安装msysgit，下载地址：http://msysgit.github.io/
+
+再下载TortoiseGit的安装程序和语言包
