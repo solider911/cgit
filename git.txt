@@ -13,6 +13,10 @@ qq号：
 3212315368
 chbchb
 
+git新手教程：
+http://backlogtool.com/git-guide/cn/intro/intro1_1.html
+
+
 
 远程仓库地址
 git@github.com:solider911/cgit.git
