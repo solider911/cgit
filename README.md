@@ -1,2 +1,0 @@
-# cgit
-chb self git
