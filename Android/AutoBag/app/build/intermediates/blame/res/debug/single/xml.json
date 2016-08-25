@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WWW\\android\\AutoBag\\app\\build\\intermediates\\res\\merged\\debug\\xml\\autobag_service_config.xml",
+        "source": "D:\\WWW\\android\\AutoBag\\app\\src\\main\\res\\xml\\autobag_service_config.xml"
+    },
+    {
+        "merged": "D:\\WWW\\android\\AutoBag\\app\\build\\intermediates\\res\\merged\\debug\\xml\\nenotification_service_config.xml",
+        "source": "D:\\WWW\\android\\AutoBag\\app\\src\\main\\res\\xml\\nenotification_service_config.xml"
+    }
+]
