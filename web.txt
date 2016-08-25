@@ -10,3 +10,5 @@ web  merge
 new respository
 
 modify ssh
+
+haha no http
